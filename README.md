@@ -2,7 +2,7 @@
 
 Berikut adalah topologi jaringan yang saya buat menggunakan Cisco Packet Tracer:
 
-![Topologi Jaringan](b14a79c8-e65d-471d-b2ac-063ada6eb725.png)
+![Topologi Jaringan]((https://github.com/FerdianAnandaPutra/network-topology-simulation/blob/main/cisco-design-final.png))
 
 ## Deskripsi Singkat
 Topologi ini terdiri dari:
